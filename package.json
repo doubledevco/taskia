@@ -1,0 +1,14 @@
+{
+  "name": "taskia",
+  "version": "1.0.0",
+  "description": "Make task management is easier than ever.",
+  "main": "main.js",
+  "author": "Hoang Ngoc Dung",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^27.1.2"
+  }
+}
